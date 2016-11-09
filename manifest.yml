@@ -1,0 +1,6 @@
+---
+applications:
+  - name: CovenantDeals
+    path: target/Bluemix
+    services:
+      - mysql
